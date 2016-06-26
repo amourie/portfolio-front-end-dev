@@ -1,0 +1,8 @@
+{
+  "name": "p1-build-portfolio-site",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-responsive-images": "^0.1.6"
+  }
+}
