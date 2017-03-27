@@ -1,4 +1,4 @@
-Name: Amourie Fourie - amourie@gmail.com
+Name: Amourie Fourie
 Project: Project 1 Mobile responsive personal Portfolio as part of Front-End Nano Degree - basic layout provided in basic-mock-idea.pdf however were allowed to personalize and style as you wanted.
 Project used a grunt file to resize images on the fly.
 
